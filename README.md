@@ -1,0 +1,2 @@
+# conspiranoia
+Juego de cartas
