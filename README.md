@@ -99,3 +99,10 @@ EJEMPLOS:
   * 3 Cartas Avatar (*2) + Carta Ataque Especial => 12 puntos de Ataque Especial
   * 3 Cartas Defensa + Carta Avatar (*2) => 6 puntos de Defensa (bloquea al Ataque)
   * 3 Cartas Avatar (*2) + Carta Defensa => 6 puntos de Defensa (bloquea al Ataque)
+
+
+## Legal
+
+Los iconos utilizados pertenecen a [game-icons](http://game-icons.net/), licenciados bajo CC-by-3.0.  
+Este juego esta licenciado bajo la licencia internacional CC-by-sa-4.0. Para obtener una copia de esta licencia es posible descargarla de http://creativecommons.org/licenses/by-sa/4.0/ o en el archivo [LICENSE](LICENSE)
+
